@@ -1,2 +1,2 @@
-# hugging-face-course
-Discovering HuggingFace through their amazing course.
+# huggingface-course
+Discovering HuggingFace 🤗 through their amazing course.
